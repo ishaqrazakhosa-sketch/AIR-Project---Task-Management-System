@@ -56,3 +56,11 @@ Read [](file:///d%3A/bin/AIR%20Project/frontend/login.html#1-1), lines 1 to 20
 ├── database/              # SQL scripts & setup
 └── setup_database.sql     # Database initialization
 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c44c263f-ed4f-43f1-8377-f8fe297791fb" />
+
+
+<img width="1280" height="611" alt="image" src="https://github.com/user-attachments/assets/a6bbf1ef-38e3-4e8f-b1c3-5207d6344315" />
+
+![WhatsApp Image 2025-12-19 at 11 59 27 PM](https://github.com/user-attachments/assets/8cbdb29b-c5ca-4c36-81ee-184b18aeaace)
+
