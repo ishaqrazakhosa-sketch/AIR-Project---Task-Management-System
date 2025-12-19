@@ -1,24 +1,13 @@
 # AIR-Project---Task-Management-System
 A full-stack web application for task management and productivity. Features user authentication, task tracking with priorities and due dates, dashboard analytics, and integrated notifications via email and WhatsApp.
-User: Listen i want to make a repositry in github give the descrip[tion of this project]
-
-GitHub Copilot: I'll help you create a GitHub repository description. Let me first examine the project files to understand what this project does. 
-
 Read [](file:///d%3A/bin/AIR%20Project/backend.py#1-1), lines 1 to 50
 
 Read [](file:///d%3A/bin/AIR%20Project/config/config.json#1-1), lines 1 to 30
 
 Read [](file:///d%3A/bin/AIR%20Project/frontend/login.html#1-1), lines 1 to 20
 
-Based on the project structure and files, here's a **GitHub repository description** for your AIR Project:
-
----
-
-## **README/Repository Description:**
-
 ### **AIR Project - Task Management System**
 
-**Short Description (for GitHub):**
 > A full-stack web application for task management and productivity. Features user authentication, task tracking with priorities and due dates, dashboard analytics, and integrated notifications via email and WhatsApp.
 
 ---
