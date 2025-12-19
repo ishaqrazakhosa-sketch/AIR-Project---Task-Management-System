@@ -1,3 +1,16 @@
+                               A project by Our Group 
+    1 : Ishaq Raza Khosa      Backend Developer                 B24F1077CS127                
+    2 : Arisha Khan           Database Manager                  B24F1135CS144 
+    3 : Rashida Bashir        Frontend Developer                B24F
+
+
+  This project was developed for the Data Structures and Algorithms (DSA) course under the supervision of Lab Engineer Obaidullah Miakhil.
+  
+
+
+
+
+
 # AIR-Project---Task-Management-System
 A full-stack web application for task management and productivity. Features user authentication, task tracking with priorities and due dates, dashboard analytics, and integrated notifications via email and WhatsApp.
 Read [](file:///d%3A/bin/AIR%20Project/backend.py#1-1), lines 1 to 50
