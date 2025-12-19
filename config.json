@@ -1,0 +1,54 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 8080,
+        "ssl_enabled": false,
+        "ssl_cert": "",
+        "ssl_key": ""
+    },
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "name": "taskmaster_db",
+        "user": "taskmaster",
+        "password": "secure_password_123",
+        "pool_size": 10,
+        "connection_timeout": 30
+    },
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "your_email@gmail.com",
+        "password": "your_app_password",
+        "use_tls": true,
+        "from_address": "TaskMaster Pro <noreply@taskmaster.com>"
+    },
+    "whatsapp": {
+        "provider": "twilio",
+        "account_sid": "your_twilio_account_sid",
+        "auth_token": "your_twilio_auth_token",
+        "from_number": "+14155238886",
+        "enabled": true
+    },
+    "security": {
+        "jwt_secret": "your_jwt_secret_key_here_change_this",
+        "jwt_expiry_hours": 24,
+        "password_min_length": 8,
+        "require_special_chars": true,
+        "require_numbers": true,
+        "require_uppercase": true,
+        "bcrypt_rounds": 12
+    },
+    "logging": {
+        "level": "info",
+        "file": "logs/taskmaster.log",
+        "max_size_mb": 10,
+        "max_files": 5
+    },
+    "reminders": {
+        "check_interval_minutes": 1,
+        "advance_notice_minutes": 30,
+        "max_retries": 3,
+        "retry_delay_seconds": 60
+    }
+}
