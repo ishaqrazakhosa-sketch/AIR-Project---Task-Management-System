@@ -1,7 +1,7 @@
                                A project by Our Group 
     1 : Ishaq Raza Khosa      Backend Developer                 B24F1077CS127                
     2 : Arisha Khan           Database Manager                  B24F1135CS144 
-    3 : Rashida Bashir        Frontend Developer                B24F
+    3 : Rashida Bashir        Frontend Developer                B24F0862CS147
 
 
   This project was developed for the Data Structures and Algorithms (DSA) course under the supervision of Lab Engineer Obaidullah Miakhil.
